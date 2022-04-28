@@ -1,5 +1,6 @@
 # Cat laser toy.
 
+![3d printed laser turret for cats](https://github.com/ezmac/cat_laser_turret/blob/master/model.png?raw=true)
 What am I doing with my life?
 
 
